@@ -1,0 +1,10 @@
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\bin\Debug\RunMSTest.exe.config
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\bin\Debug\RunMSTest.exe
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\bin\Debug\RunMSTest.pdb
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.csprojResolveAssemblyReference.cache
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.SettingFile.resources
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.Properties.Resources.resources
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.csproj.GenerateResource.Cache
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.exe
+C:\Users\VEYTIA\Desktop\Desktop\AA_AutomationCSHARERP\NewRunMSTest\obj\x86\Debug\RunMSTest.pdb
